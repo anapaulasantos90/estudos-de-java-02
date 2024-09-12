@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\ana_dev\projetos\coti\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1360588550.index
+3413725848.index
